@@ -1,5 +1,5 @@
 {
-  "name": "@alokkaushik/tiny-http-client",
+  "name": "@alok5953/tiny-http-client",
   "version": "1.0.0",
   "description": "A lightweight, universal HTTP client wrapping native fetch API with zero dependencies",
   "type": "module",

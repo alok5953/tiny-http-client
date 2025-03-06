@@ -1,8 +1,8 @@
-# @alokkaushik/tiny-http-client
+# @alok5953/tiny-http-client
 
-[![npm version](https://img.shields.io/npm/v/@alokkaushik/tiny-http-client.svg)](https://www.npmjs.com/package/@alokkaushik/tiny-http-client)
+[![npm version](https://img.shields.io/npm/v/@alok5953/tiny-http-client.svg)](https://www.npmjs.com/package/@alok5953/tiny-http-client)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/node/v/@alokkaushik/tiny-http-client.svg)](https://nodejs.org)
+[![Node.js Version](https://img.shields.io/node/v/@alok5953/tiny-http-client.svg)](https://nodejs.org)
 
 A modern, lightweight HTTP client that wraps the native fetch API for both browser and Node.js environments. Built with modern JavaScript practices and zero dependencies.
 
@@ -19,13 +19,13 @@ A modern, lightweight HTTP client that wraps the native fetch API for both brows
 ## Installation
 
 ```bash
-npm install @alokkaushik/tiny-http-client
+npm install @alok5953/tiny-http-client
 ```
 
 ## Quick Start
 
 ```javascript
-import http from '@alokkaushik/tiny-http-client';
+import http from '@alok5953/tiny-http-client';
 
 // Simple GET request with automatic JSON parsing
 const users = await http.get('https://api.example.com/users');
@@ -66,7 +66,7 @@ const data = await api.get('/unstable-endpoint');
 ### Plugin System
 
 ```javascript
-import { authPlugin, cachePlugin, loggingPlugin } from '@alokkaushik/tiny-http-client/plugins';
+import { authPlugin, cachePlugin, loggingPlugin } from '@alok5953/tiny-http-client/plugins';
 
 // Authentication plugin
 http.use(authPlugin('your-token'));
