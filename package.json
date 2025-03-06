@@ -25,19 +25,19 @@
     "zero-dependencies",
     "isomorphic"
   ],
-  "author": "Alok Kaushik",
+  "author": "Alok",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alokkaushik/tiny-http-client.git"
+    "url": "git+https://github.com/alok5953/tiny-http-client.git"
   },
   "bugs": {
-    "url": "https://github.com/alokkaushik/tiny-http-client/issues"
+    "url": "https://github.com/alok5953/tiny-http-client/issues"
   },
-  "homepage": "https://github.com/alokkaushik/tiny-http-client#readme",
+  "homepage": "https://github.com/alok5953/tiny-http-client#readme",
   "devDependencies": {
     "@babel/core": "^7.24.0",
     "@babel/preset-env": "^7.24.0",

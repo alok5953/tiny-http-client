@@ -167,9 +167,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Alok Kaushik**
+**Alok**
 
-- GitHub: [@alokkaushik](https://github.com/alokkaushik)
+- GitHub: [@alok5953](https://github.com/alok5953)
+- npm: [@alok5953](https://www.npmjs.com/~alok5953)
 - LinkedIn: [Alok Kaushik](https://www.linkedin.com/in/alok-kaushik-b67128267/)
 
 ## Acknowledgments
