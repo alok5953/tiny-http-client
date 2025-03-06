@@ -1,0 +1,15 @@
+.git/
+.github/
+.gitignore
+.eslintrc.json
+.prettierrc
+.husky/
+coverage/
+tests/
+*.test.js
+*.spec.js
+.DS_Store
+*.log
+.env*
+.vscode/
+.idea/
